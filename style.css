@@ -1,0 +1,123 @@
+body{
+    background-color:azure;
+    text-wrap: wrap;
+    background-image: url(nuvem.jpeg);
+}
+*{
+    margin:0;
+    padding:0;
+    text-wrap: wrap;
+}
+header{
+    background-color: rgb(220, 249, 250);
+    display:flex;
+    gap:4rem;
+    text-wrap: wrap;
+    width: 100%;
+}
+.logo{
+    width: 60px;
+    text-wrap: wrap;
+}
+strong{
+    color:rgb(10, 10, 10);
+    text-wrap: wrap;
+    
+}
+.foto{
+    position: absolute;
+    left:50%;
+    width: 850px;
+    top:10%;
+    text-wrap: wrap;
+}
+p{
+    margin:8%;
+    text-wrap: wrap;
+}
+.titulo{
+    position: absolute;
+    margin:8%;
+    left:4%;
+    text-wrap: wrap;
+}
+button{
+    position: absolute;
+    left: 60%;
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    text-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    text-wrap: wrap;
+    color: rgb(14, 14, 14);
+}
+.nav-links{
+    position: absolute;
+    gap: 8rem;
+    text-decoration: none;
+    left:43%;
+    text-wrap: wrap;
+    color: rgb(3, 97, 39);
+   
+}
+ul{
+    display: flex;
+    gap: 4rem;
+    margin: 5%;
+    text-wrap: wrap;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    color: rgb(4, 133, 21);
+}
+p{
+    background-color: rgb(208, 253, 253);
+    padding: 5%;
+    border-radius: 10%;
+    text-wrap: wrap;
+}
+h1{
+    position: absolute;
+    left:25%;
+    text-wrap: wrap;
+}
+.btn{
+    position: absolute;
+    top:65%;
+    margin:8%;
+    padding: 5px;
+    width: 26%;
+}
+button{
+    color:rgb(10, 10, 10);
+    background-color: rgb(197, 248, 146);
+    padding: 1%;
+    border-color: blue;
+    border-radius: 10px;
+}
+.btns{
+    display: flex;
+    gap:2rem;
+}
+.btn-loguin{
+    position:absolute ;
+    left: 74%;
+    width: 26%;
+    top:2%;
+   
+}
+.btn-cadrastro{
+    position:absolute ;
+    left:60%;
+    width: 40%;
+    top:2%;
+}
+h2{
+    left:3%;
+    position: absolute;
+    top:2%;
+    color: darkgreen;
+}
